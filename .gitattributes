@@ -1,0 +1,2 @@
+*.artifacts filter=lfs diff=lfs merge=lfs -text
+*.C:/Users/Hitzus/Desktop/End[[:space:]]To[[:space:]]end[[:space:]]DS[[:space:]]Project/ML[[:space:]]DL[[:space:]]DVC[[:space:]]pipeline/artifacts/data_ingestion/data.zip filter=lfs diff=lfs merge=lfs -text
